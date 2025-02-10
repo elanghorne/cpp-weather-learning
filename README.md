@@ -1,3 +1,3 @@
 # cpp-weather-learning
-Learning and testing for C++ weather app
-testing code snippets before beginning app
+Learning and testing for C++ weather app.
+Testing code snippets before beginning app
